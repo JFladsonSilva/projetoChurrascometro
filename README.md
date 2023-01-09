@@ -1,2 +1,2 @@
 # Churrascômetro
-Projeto baseado no curso de Desenvolvimento Web do ProgramadorBR para treinar as habilidades em HTML, CSS, D.O.M e JavaScript um pouco mais avançado.
+Projeto baseado no curso de Desenvolvimento Web do ProgramadorBR para treinar as habilidades em HTML, CSS,JavaScript e D.O.M.
